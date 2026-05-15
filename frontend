@@ -166,6 +166,146 @@
     <textarea rows="5" placeholder="Your Message"></textarea>
     <button class="btn">Send Message</button>
   </section>
+ <section id="features">
+    <h2>Our Features</h2>
+    <div class="features">
+      <div class="card">
+        <h3>Fast</h3>
+        <p>Lightning fast performance for your needs.</p>
+      </div>
+      <div class="card">
+        <h3>Responsive</h3>
+        <p>Looks great on all devices and screens.</p>
+      </div>
+      <div class="card">
+        <h3>Secure</h3>
+        <p>Built with best security practices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <input type="text" placeholder="Your Name">
+    <input type="email" placeholder="Your Email">
+    <textarea rows="5" placeholder="Your Message"></textarea>
+    <button class="btn">Send Message</button>
+  </section>
+
+  <footer>
+    <p>© 2026 MyBrand. All rights reserved.</p>
+  </footer>
+
+  <script>
+    function showMessage() {
+      alert("Welcome! Thanks for visiting our website.");
+    }
+  </script>
+ <section id="features">
+    <h2>Our Features</h2>
+    <div class="features">
+      <div class="card">
+        <h3>Fast</h3>
+        <p>Lightning fast performance for your needs.</p>
+      </div>
+      <div class="card">
+        <h3>Responsive</h3>
+        <p>Looks great on all devices and screens.</p>
+      </div>
+      <div class="card">
+        <h3>Secure</h3>
+        <p>Built with best security practices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <input type="text" placeholder="Your Name">
+    <input type="email" placeholder="Your Email">
+    <textarea rows="5" placeholder="Your Message"></textarea>
+    <button class="btn">Send Message</button>
+  </section>
+
+  <footer>
+    <p>© 2026 MyBrand. All rights reserved.</p>
+  </footer>
+
+  <script>
+    function showMessage() {
+      alert("Welcome! Thanks for visiting our website.");
+    }
+  </script>
+ <section id="features">
+    <h2>Our Features</h2>
+    <div class="features">
+      <div class="card">
+        <h3>Fast</h3>
+        <p>Lightning fast performance for your needs.</p>
+      </div>
+      <div class="card">
+        <h3>Responsive</h3>
+        <p>Looks great on all devices and screens.</p>
+      </div>
+      <div class="card">
+        <h3>Secure</h3>
+        <p>Built with best security practices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <input type="text" placeholder="Your Name">
+    <input type="email" placeholder="Your Email">
+    <textarea rows="5" placeholder="Your Message"></textarea>
+    <button class="btn">Send Message</button>
+  </section>
+
+  <footer>
+    <p>© 2026 MyBrand. All rights reserved.</p>
+  </footer>
+
+  <script>
+    function showMessage() {
+      alert("Welcome! Thanks for visiting our website.");
+    }
+  </script>
+ <section id="features">
+    <h2>Our Features</h2>
+    <div class="features">
+      <div class="card">
+        <h3>Fast</h3>
+        <p>Lightning fast performance for your needs.</p>
+      </div>
+      <div class="card">
+        <h3>Responsive</h3>
+        <p>Looks great on all devices and screens.</p>
+      </div>
+      <div class="card">
+        <h3>Secure</h3>
+        <p>Built with best security practices.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <input type="text" placeholder="Your Name">
+    <input type="email" placeholder="Your Email">
+    <textarea rows="5" placeholder="Your Message"></textarea>
+    <button class="btn">Send Message</button>
+  </section>
+
+  <footer>
+    <p>© 2026 MyBrand. All rights reserved.</p>
+  </footer>
+
+  <script>
+    function showMessage() {
+      alert("Welcome! Thanks for visiting our website.");
+    }
+  </script>
 
   <footer>
     <p>© 2026 MyBrand. All rights reserved.</p>
